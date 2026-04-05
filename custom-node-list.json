@@ -45574,6 +45574,7 @@
             ],
             "install_type": "git-clone",
             "description": "ComfyUI custom node that converts an input image into a Stable Diffusion-ready prompt using Abacus.AI’s OpenAI-compatible multimodal API (model dropdown fetched from /v1/models; supports route-llm and other available models). Requires an Abacus.AI API key and consumes API credits.",
+            "version": "1.0.2",
             "tags": [
                 "prompt",
                 "image-to-prompt",
